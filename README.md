@@ -12,7 +12,11 @@ AI & Robotics Strategy: design docs, ROI models, delivery pipelines
 
 💡 Core Skills
 AI / LLMs: prompting, agent workflows, evaluation
-Tech: TypeScript, Python, FastAPI, React/TS
+
+AI Tool Stack used : Gemini AI Studio for protoyping, Cursor for Building/ Testing / Evaluation / Production, Chat GPT for reasoning - thinking, PM artifacts generation, Claude for coding
+
+Tech: TypeScript, Python, SQL,FastAPI, React/TS
+
 PM: PRFAQ, success metrics, launch strategy, roadmap
 
 📌 Featured Projects
