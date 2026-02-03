@@ -1,93 +1,29 @@
 👋 Hi, I’m Ragul Puhazhendi
 
-Technical Product Manager | Agentic AI Builder | Robotics & CAD Strategy
+Technical Product Manager | Agentic Systems | Robotics & AI Strategy
 
-I build real, demo-able AI products at the intersection of agentic systems, product strategy, and industrial software.
-My work focuses on turning emerging AI capabilities into clear user value, measurable outcomes, and credible PM artifacts.
+📌 Building AI-powered decision systems, agentic apps, and PM-grade tools.
 
-Currently:
+🔍 What I Do
 
-Technical Product Manager Intern @ Amazon Robotics
+Agentic AI Products: stock picker, food bidding agents, language learning LLM apps
+AI Product Manager Tools: council tools, evaluation harnesses, reusable PM artifacts
+AI & Robotics Strategy: design docs, ROI models, delivery pipelines
 
-Product Manager – Innovation Strategy (AI) @ Dassault Systèmes (SOLIDWORKS)
-
-MBA (Management Science / Digital Tech), Boston University
-
-🔭 What I’m Building
-🤖 Agentic AI Products (0 → 1)
-
-MunchMatch (FeastBid Engine)
-Agent-driven reverse-auction marketplace for food ordering.
-Multi-agent bidding, negotiation, and constraint optimization (budget, dietary, preference).
-
-AI Product Council
-Amazon-style AI decision system that generates PRFAQs, PRDs, ROI models, and trade-off logs using specialized agents (Finance, Eng, Ops, CX).
-
-AI CAD Design Assistant
-Multi-agent system that converts natural-language product specs into structured part definitions, BOMs, and CAD-ready outputs with evaluation guardrails.
-
-🧠 What I Care About
-
-Agentic system design (planning, memory, tools, evaluation)
-
-PM-grade AI rigor (metrics, failure modes, economic feasibility)
-
-Industrial & robotics AI (CAD, manufacturing, automation ROI)
-
-I’m especially interested in where AI hype breaks — and how to design systems that still work in production.
+💡 Core Skills
+AI / LLMs: prompting, agent workflows, evaluation
+Tech: TypeScript, Python, FastAPI, React/TS
+PM: PRFAQ, success metrics, launch strategy, roadmap
 
 📌 Featured Projects
+AI-Agent-Stock-Picker — Agent picks live stocks
+AI-Product-Council — PM decision support tool
+MunchMatch — Agentic Reverse Auction Food Ordering app
+Lingo - Language Learning AI Tool
 
-🔹 MunchMatch – Agentic Reverse Auction App
-Multi-agent bidding, negotiation chat, state machine, and demo flow
-→ Shows how agents unlock new marketplace economics
+📫 Connect
 
-🔹 AI Product Council
-Decision ledger + PRFAQ + roadmap agents
-→ Demonstrates AI-native product management
+LinkedIn: https://www.linkedin.com/in/ragulpuhazhendi/
+Email: ragul95@bu.edu
 
-🔹 Agentic AI CAD Prototype
-Spec → structure → validation pipeline
-→ AI for engineers, not just prompts
-
-(See pinned repos below 👇)
-
-🛠 Tech Stack
-
-LLMs: Gemini, GPT-4/5, Claude
-
-Agent Frameworks: LangChain, LangGraph, custom orchestration
-
-Backend: Python, FastAPI, state machines
-
-Frontend/Demo: Streamlit, simple React
-
-Evaluation: LLM-as-Judge, human-in-loop, failure analysis
-
-Cloud: AWS, GCP
-
-Other: CAD workflows, robotics ROI modeling
-
-📈 How I Think About AI Products
-
-I design AI systems like products, not demos:
-
-Clear user job
-
-Explicit constraints
-
-Measurable success criteria
-
-Honest limitations
-
-Viable economics
-
-If it can’t survive a skeptical Principal PM review, it’s not done.
-
-📫 Let’s Connect
-
-💼 LinkedIn: (add link)
-
-✍️ Writing: Medium / LinkedIn (AI product essays, PRFAQ-style)
-
-📧 Open to: PM roles, AI strategy conversations, builder collabs
+⭐ Feel free to star or explore my pinned repos.
