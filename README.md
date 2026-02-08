@@ -19,13 +19,17 @@ Tech: TypeScript, Python, SQL,FastAPI, React/TS
 
 PM: PRFAQ, success metrics, launch strategy, roadmap
 
-📌 Featured Projects
-AI-Agent-Stock-Picker — Agent picks live stocks 
-AI-Product-Council — PM decision support tool
+📌 Featured Projects - Demoable 
+
+AI-Product-Council — PM decision support tool (https://ai-product-council-872747958244.us-west1.run.app/ )
 
 MunchMatch — Agentic Reverse Auction Food Ordering app ( https://food-bidding-agentic-app-872747958244.europe-west1.run.app/ )
 
 Lingo - Language Learning AI Tool ( https://lingoagent-ai-97186786896.us-west1.run.app/ ) 
+
+Work in progress
+
+AI Stock Picker
 
 📫 Connect
 
