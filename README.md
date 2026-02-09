@@ -25,7 +25,7 @@ AI-Product-Council — PM decision support tool (https://ai-product-council-8727
 
 MunchMatch — Agentic Reverse Auction Food Ordering app ( https://food-bidding-agentic-app-872747958244.europe-west1.run.app/ )
 
-Lingo - Language Learning AI Tool ( https://lingoagent-ai-97186786896.us-west1.run.app/ ) 
+Lingo - Language Learning AI Tool ( https://language-learning-agentic-ai-ap-97186786896.europe-west1.run.app/ ) 
 
 Work in progress
 
