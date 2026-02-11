@@ -5,6 +5,7 @@ Technical Product Manager | Agentic Systems | Robotics & AI Strategy | AR VR Exp
 📌 Building AI-powered decision systems, agentic apps, and PM-grade tools.
 
 💡 Core Skills
+
 AI / LLMs: Prompting, agent workflows, evaluation
 Product: Product Requirements gathering, Prioritization, Financial Analysis, Technical System Design, UI/UX Design, White Paper writing - PRFAQ, PRD
 AI Tool Stack used: Gemini AI Studio for prototyping, Cursor for Building/ Testing / Evaluation / Production, Chat GPT for reasoning - thinking, PM artifacts generation, Claude for coding
